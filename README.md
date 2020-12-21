@@ -29,7 +29,12 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### Screen Shots
 
+ ![alt text](https://github.com/rohitmadhus/Contact-form-Forntend/blob/main/ScreenShots/Screenshot%20from%202020-12-21%2012-12-38.png)
+ ![alt text](https://github.com/rohitmadhus/Contact-form-Forntend/blob/main/ScreenShots/Screenshot%20from%202020-12-21%2012-12-45.png)
+ ![alt text](https://github.com/rohitmadhus/Contact-form-Forntend/blob/main/ScreenShots/Screenshot%20from%202020-12-21%2012-13-16.png)
+ ![alt text](https://github.com/rohitmadhus/Contact-form-Forntend/blob/main/ScreenShots/Screenshot%20from%202020-12-21%2012-13-22.png)
 
 
 
