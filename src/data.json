@@ -1,0 +1,28 @@
+{
+    "name":"Contact Us",
+    "nameObj":{
+        "name":"Name",
+        "id":"name",
+        "type":"str",
+        "vname":{
+            "stringType":"alpha",
+            "mandatory":true}},
+    "age":{
+        "name":"Age",
+        "id":"age",
+        "type":"number",
+        "vage":{
+            "minInclusive":10,
+            "maxInclusive":20,
+            "mandatory":false
+            }},
+    "city":{
+        "city":"City",
+        "id":"list",
+        "type":"city",
+        "values":["chennai","bangalore","kochi"],
+        "vcity":{
+            "mandatory":true,
+            "multiSelection":true}
+        }
+}
